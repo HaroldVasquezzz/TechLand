@@ -63,7 +63,7 @@
   overflow: hidden;
 }
 
-.lienzo_contenedor{
+.galeria_contenedor{
   display: flex;
   width: 7000px;
   height: 50px;
