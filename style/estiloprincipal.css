@@ -10,7 +10,7 @@
 .cabecera{
   display: flex;
   justify-content: space-between;
-  postion: middle;
+  postion: relative;
   height: 170px; 
 }
 
